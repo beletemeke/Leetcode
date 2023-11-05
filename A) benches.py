@@ -22,5 +22,6 @@ while m > 0:
    
 minimum = max_bench
 maximum = max(number_people) + original_m
-print(minimum, maximum)
+print(minimum, maximum) #now the master is updated, before the contributor push
+
     
